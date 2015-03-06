@@ -1,0 +1,11 @@
+.gradle
+.idea
+/app/build
+/app/libs
+/app/app.iml
+/build
+/gradle
+local.properties
+PersonalAchievementAnalyzer.iml
+.DS_Store
+
